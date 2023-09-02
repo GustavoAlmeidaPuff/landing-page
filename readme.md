@@ -1,1 +1,1 @@
-[![Texto Alternativo])](https://youtu.be/K2_woPR_qfg)
+[Video da landing](https://youtu.be/K2_woPR_qfg)
