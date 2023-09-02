@@ -55,3 +55,54 @@ form{
     background-color: white;
     align-items: center;
 }
+
+h2{
+    padding: 15px;
+    font-family: monospace;
+    font-size: 35px;
+}
+
+button{
+    border: none;
+    width: 170px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.571);
+    color: white;
+    
+}
+
+button:hover{
+    font-size: 110%;
+    transition: .3s;
+    background-color: rgb(204, 170, 104);
+}
+
+input{
+    padding: 10px;
+    border-radius: 7px;
+    background-color: rgba(206, 206, 206, 0.742);
+}
+
+input:hover{
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 0.5px;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 70px;
+    margin-left: 50%;
+    position: relative;
+    top: -370px;
+}
+
+span{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 50%;
+    position: relative;
+    top: -350px;
+}
